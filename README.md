@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zuza</h1>
+<h1 align="center">Hi 👋, I'm Zuzanna</h1>
 <h3 align="center">Computational Engineering, AGH University of Science and Technology</h3>
 
 
