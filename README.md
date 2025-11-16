@@ -34,6 +34,3 @@
 - Observability: Loki, Grafana, log pipelines  
 
 ---
-
-### Currently
-Just writing code, learning cool stuff and having fun
