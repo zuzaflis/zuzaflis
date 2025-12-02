@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zuza</h1>
 <h3 align="center">Java Software Engineer • Full-Stack Developer • AGH Student</h3>
 
-🔧 I build full-stack web apps, automate workflows and enjoy working across the stack — from Angular & React to Java & Spring.  
-🧠 Interested in ML, observability and clean engineering practices.
+ I build full-stack web apps, automate workflows and enjoy working across the stack — from Angular to Java & Spring.  
+ Interested in ML, observability and clean engineering practices.
 
 ---
 
